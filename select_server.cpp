@@ -2,8 +2,8 @@
 // Created by Melodies Sim on 28/6/21.
 //
 // References: https://www.geeksforgeeks.org/socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
-// Example code: A simple server side code, which echos back the received message.
-// Handle multiple socket connections with select and fd_set on Linux
+// A simple server side code, which echos back the received message.
+// Handles multiple socket connections with select and fd_set on Linux
 
 #include <stdio.h>
 #include <string.h>
